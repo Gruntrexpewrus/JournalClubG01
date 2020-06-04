@@ -1,2 +1,2 @@
 # JournalClubG01
-Codes for simulation presented in slides
+Codes, slides, paper for JC Brutti 2020
